@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div>
-<h3 align="center">A passionate frontend developer from India, working in Gurgaon based company Yeppers solutions pvt ltd.</h3>
+<h3 align="center">I'm Dilpreet Sandhu, from India, and I do design and development. A passionate frontend developer, working in Gurgaon based company Yeppers solutions pvt ltd. I enjoy learning languages and frameworks react, django, react Native, as well as Wordpress.</h3>
 
 - 🔭 I’m currently working on **Bharat Soka Gakkai**
 
