@@ -50,7 +50,7 @@
   </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dappysandhu&theme=tokyonight&show_icons=true&locale=en" alt="dappysandhu"  /></p>
 </div>
-<div margin-top="40px">
+<div>
 <p>
   <img align="left" src= "https://github-readme-streak-stats.herokuapp.com?user=dappysandhu&theme=highcontrast" alt="dappysandhu" /> </p>
     </div>
