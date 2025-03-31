@@ -17,9 +17,7 @@
 <div>
 <h3 align="center">I'm Dilpreet Sandhu, from India, and I do design and development. A passionate frontend developer, working in Gurgaon based company Yeppers solutions pvt ltd. I enjoy learning languages and frameworks react, django, react Native, as well as Wordpress.</h3>
 
-- 🔭 I’m currently working on **Bharat Soka Gakkai**
-
-- 🌱 I’m currently learning **ReactJs, Python Django**
+- 🌱 I’m currently learning **ReactJs, ReactNative, Tailwind, Python**
 
 - 💬 Ask me about **react, javascript, c, python, web sockets**
 
